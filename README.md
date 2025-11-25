@@ -1,4 +1,5 @@
 [![Ternary LLMs](https://img.shields.io/badge/Companion-ternary-brightgreen)](https://github.com/t81dev/ternary)
+[![Trinity Ecosystem](https://img.shields.io/badge/Trinity-Complete-blue)](https://github.com/t81dev/ternary).
 
 # TRINITY — The Ternary Cipher Suite
 
