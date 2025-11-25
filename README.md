@@ -1,3 +1,5 @@
+[![Ternary LLMs](https://img.shields.io/badge/Companion-ternary-brightgreen)](https://github.com/t81dev/ternary)
+
 # TRINITY — The Ternary Cipher Suite
 
 > "There are only three truths: -1, 0, and +1."  
