@@ -56,3 +56,7 @@ Star. Fork. Fear.
 Do it.  
 Now.  
 The Trinity demands it.
+
+## Phase 4 migration
+
+- Evaluation baseline plan: `docs/phase4-evaluation-plan.md`
