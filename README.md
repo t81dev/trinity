@@ -60,3 +60,4 @@ The Trinity demands it.
 ## Phase 4 migration
 
 - Evaluation baseline plan: `docs/phase4-evaluation-plan.md`
+- Quarterly objectives (2026 Q1): `docs/quarterly-objectives-2026-q1.md`
